@@ -1,5 +1,6 @@
 {
   "name": "reactjs-tooltip",
+  "version": "4.0.0",
   "description": "react tooltip component drivin",
   "main": "standalone/react-tooltip.js",
   "moduleType": [
