@@ -1,6 +1,6 @@
 {
-  "name": "react-tooltip",
-  "description": "react tooltip component",
+  "name": "reactjs-tooltip",
+  "description": "react tooltip component drivin",
   "main": "standalone/react-tooltip.js",
   "moduleType": [
     "globals",
@@ -21,13 +21,11 @@
   "authors": [
     "wwayne"
   ],
-  "homepage": "https://github.com/wwayne/react-tooltip",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wwayne/react-tooltip"
+    "url": "https://github.com/luienvar/react-tooltip"
   },
   "dependencies": {
-    "react": ">=0.14",
-    "react-dom": ">=0.14"
+    "react": ">=0.14"
   }
 }
